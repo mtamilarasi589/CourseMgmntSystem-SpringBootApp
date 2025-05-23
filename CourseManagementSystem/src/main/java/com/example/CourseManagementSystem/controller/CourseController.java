@@ -14,7 +14,7 @@ import com.example.CourseManagementSystem.model.CourseInfo;
 import com.example.CourseManagementSystem.service.CourseService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:5500")
+
 
 public class CourseController {
 @Autowired
